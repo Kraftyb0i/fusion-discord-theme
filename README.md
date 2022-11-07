@@ -10,7 +10,7 @@
 ## Installation
 1. Install [BetterDiscord](https://betterdiscord.app/).
 2. Download the theme file:
-    - [GitHub (Mine)](https://github.com/Kraftyb0i/fusion-modded-theme/releases/latest)
+    - [GitHub (Mine)](https://github.com/Kraftyb0i/fusion-discord-theme/releases/latest)
     - [GitHub (Saltssaumure)](https://github.com/Saltssaumure/synthesis-discord-theme/releases/latest)
     
 3. Place theme file in BetterDiscord's theme folder:
