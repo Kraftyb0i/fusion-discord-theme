@@ -1,0 +1,49 @@
+/**
+ * @name Fusion
+ * @author Krafty
+ * @authorLink https://github.com/Kraftyb0i
+ * @description A modded version of Synthesis based on personal tweaks
+ * @version 1.0
+ * @source https://github.com/Kraftyb0i/fusion-discord-theme
+*/
+
+/*
+                                                Made by:
+ _______  _______  _    _________ _______  _______  _______           __   __           _______  _______
+(  ____ \(  ___  )( \   \__   __/(  ____ \(  ____ \(  ___  )|\     /|(  \ /  )|\     /|(  ____ )(  ____ \
+| (____\/| (___) || |      | |   | (____\/| (____\/| (___) || |   | || || || || |   | || (____)|| (__  \/
+(_____  )|  ___  || |      | |   (_____  )(_____  )|  ___  || |   | || |(_)| || |   | || __  __)|  __)
+/\____) || )   ( || (____/\| |   /\____) |/\____) || )   ( || (___) || )   ( || (___) || ) \ \__| (____/\
+\_______)|/     \|(_______/)_(   \_______)\_______)|/     \|(_______)|/     \|(_______)|/   \__/(_______/
+
+                                         Licensed under GPL-3.0!
+
+								                              Modified by:
+							
+888    d8P  8888888b.         d8888 8888888888 88888888888 Y88b   d88P 
+888   d8P   888   Y88b       d88888 888            888      Y88b d88P  
+888  d8P    888    888      d88P888 888            888       Y88o88P   
+888d88K     888   d88P     d88P 888 8888888        888        Y888P    
+8888888b    8888888P"     d88P  888 888            888         888     
+888  Y88b   888 T88b     d88P   888 888            888         888     
+888   Y88b  888  T88b   d8888888888 888            888         888     
+888    Y88b 888   T88b d88P     888 888            888         888     
+                                                                     
+ 
+GitHub:https://github.com/Kraftyb0i/synthesis-modded-theme 
+       https://github.com/Saltssaumure/synthesis-discord-theme
+
+Join Salt's Discord Themes server! https://discord.gg/uy8nKQVatp
+*/
+
+@import url("https://kraftyb0i.github.io/fusion-modded-theme/fusion.modded.css");
+
+:root
+{
+    --background-image: url(https://www.itl.cat/pngfile/big/187-1877483_melting-july-blue-cool-ocean-sunet-arch.jpg);  /* Background image. Values: any image link encased in url(). */
+    --tint-overlay: rgba(255, 165, 0, 0.00);                  /* Tint over the whole "viewport". Default: rgba(255, 165, 0, 0.1). */
+    --crt-scanline-light: rgba(255, 255, 255, 0.05);        	/* CRT monitor light scanline stripe tone. Default: rgba(255, 255, 255, 0.05). */
+    --crt-scanline-dark: rgba(54, 17, 17, 0.0);                	/* CRT monitor dark scanline stripe tone. Default: rgba(0, 0, 0, 0.1). */
+    --crt-flicker: off;                                     /* CRT monitor overlay flickering, may be performance heavy. Values: flicker (on) or none (off). */
+
+}
